@@ -17,7 +17,7 @@
     "datatables.net-dt": "1.10.19",
     "firebase": "5.9.2",
     "google-maps-react": "2.0.2",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-google-charts": "3.0.11",
